@@ -9,7 +9,8 @@ ITAI2373-NewsBot-Midterm/
 │   └── pos_distribution.png
 ├── utils/                                 ← Optional: helper functions
 │   └── preprocessing.py
-├── NewsBot_Reflection_[TeamName].pdf      ← Final group reflection
-└── MT_Video_Group_GRISEL+BARRERA].md    
+├── NewsBot_Reflection_[GRISEL_BARRERA].pdf      ← Final group reflection
+└── MT_Video_Group_GRISEL+BARRERA].md  
+
 
 
